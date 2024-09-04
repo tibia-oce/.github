@@ -25,3 +25,27 @@ Beyond of it's flexibility with scripts, otclient comes with tons of other featu
 | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Haskanoid Video" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/002_aura.gif?raw=true" width="200" alt="Peoplemon by Alex Stuart" style="max-width: 200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/003_particula.gif?raw=true" width="250" alt="Space Invaders" style="max-width: 250px;"> |
 |-------------------------------------------|---------------|-------------------------|
 | Creature Attached Effect | Light Attached Effect | Creature Particule |
+
+## <a name="roadmap">❤️ Roadmap</a>
+
+| TO-DO list            	| Status                            	| PR   	|
+|-----------------------	|-----------------------------------	|------	|
+| Android compatibility 	| ![](https://geps.dev/progress/50) 	| [Branch](https://github.com/mehah/otclient/tree/mobile-working) 	|
+| Familiar outfit       	| ![](https://geps.dev/progress/30) 	| [#39](https://github.com/Nottinghster/otclient/pull/39) 	|
+| Cyclopedia            	| ![](https://geps.dev/progress/90) 	| [#47](https://github.com/Nottinghster/otclient/pull/47) 	|
+| Blessing            	| ![](https://geps.dev/progress/100) 	| [#825](https://github.com/mehah/otclient/pull/825)	|
+| wheel_of_destiny            	| ![](https://geps.dev/progress/1) 	| None	|
+| Analyzer              	| ![](https://geps.dev/progress/10)   |  [#802](https://github.com/mehah/otclient/pull/802)    	|
+| fix Extended view new-layout | ![](https://geps.dev/progress/0)   |   None   	|
+| Quickloot | ![](https://geps.dev/progress/30)   |   None   	|
+| Sound tibia 13 | ![](https://geps.dev/progress/0)   |   None   	|
+
+
+## <a name="need-help?">🩺 Need help?</a>
+
+Try to ask questions in [discord](https://discord.gg/HZN8yJJSyC)
+
+## <a name="bugs">📑 Bugs?</a>
+
+Have found a bug? Please create an issue in our [bug tracker](https://github.com/mehah/otclient/issues)
+
