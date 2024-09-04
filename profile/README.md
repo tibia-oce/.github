@@ -33,26 +33,12 @@ Beyond of it's flexibility with scripts, otclient comes with tons of other featu
 | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="300" alt="Haskanoid Video" style="max-width:300px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="300" alt="Peoplemon by Alex Stuart" style="max-width: 300px;"> |
 |-------------------------------------------|---------------|
 | Interface. | In-game |
-- blessing
-- Screenshot
-- highscores
-- Store
-- Cyclopedia
 
 ## <a name="roadmap">❤️ Roadmap</a>
 
 | TO-DO list            	| Status                            	| PR   	|
 |-----------------------	|-----------------------------------	|------	|
-| Android compatibility 	| ![](https://geps.dev/progress/50) 	| [Branch](https://github.com/mehah/otclient/tree/mobile-working) 	|
-| Familiar outfit       	| ![](https://geps.dev/progress/30) 	| [#39](https://github.com/Nottinghster/otclient/pull/39) 	|
-| Cyclopedia            	| ![](https://geps.dev/progress/90) 	| [#47](https://github.com/Nottinghster/otclient/pull/47) 	|
-| Blessing            	| ![](https://geps.dev/progress/100) 	| [#825](https://github.com/mehah/otclient/pull/825)	|
-| wheel_of_destiny            	| ![](https://geps.dev/progress/1) 	| None	|
-| Analyzer              	| ![](https://geps.dev/progress/10)   |  [#802](https://github.com/mehah/otclient/pull/802)    	|
-| fix Extended view new-layout | ![](https://geps.dev/progress/0)   |   None   	|
-| Quickloot | ![](https://geps.dev/progress/30)   |   None   	|
-| Sound tibia 13 | ![](https://geps.dev/progress/0)   |   None   	|
-
+| ... | ![](https://geps.dev/progress/0)   |   None   	|
 
 ## <a name="need-help?">🩺 Need help?</a>
 
