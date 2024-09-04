@@ -22,17 +22,10 @@ Otclient is an alternative Tibia client for usage with otserv. It aims to be com
 ## <a name="features">🚀 Features</a>
 Beyond of it's flexibility with scripts, otclient comes with tons of other features that make possible the creation of new client side stuff in otserv that was not possible before. These include, sound system, graphics effects with shaders, modules/addons system, animated textures, styleable user interface, transparency, multi language, in game lua terminal, an OpenGL 2.0 ES engine that make possible to port to mobile platforms. Otclient is also flexible enough to create tibia tools like map editors just using scripts, because it wasn't designed to be just a client, instead otclient was designed to be a combination of a framework and tibia APIs.
 
-| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Haskanoid Video" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/002_aura.gif?raw=true" width="200" alt="Peoplemon by Alex Stuart" style="max-width: 200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/003_particula.gif?raw=true" width="250" alt="Space Invaders" style="max-width: 250px;"> |
-|-------------------------------------------|---------------|-------------------------|
-| Creature Attached Effect | Light Attached Effect | Creature Particule |
+| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;"> |
+|-------------------------------------------|-------------------|-------------------------------------------|
+| Interface | In-game | Creature Attached Effect |
 
-| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/001_ingame.png?raw=true" width="200" alt="Haskanoid Video" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/001_interface.png?raw=true" width="200" alt="Peoplemon by Alex Stuart" style="max-width: 200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/003_patrikq.jpg?raw=true" width="270" alt="Space Invaders" style="max-width: 270px;"> |
-|-------------------------------------------|---------------|-------------------------|
-| Interface | Density Pixel | Joystick (patrykq) |
-
-| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="300" alt="Haskanoid Video" style="max-width:300px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="300" alt="Peoplemon by Alex Stuart" style="max-width: 300px;"> |
-|-------------------------------------------|---------------|
-| Interface. | In-game |
 
 ## <a name="roadmap">❤️ Roadmap</a>
 
