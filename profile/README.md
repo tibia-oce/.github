@@ -26,6 +26,10 @@ Beyond of it's flexibility with scripts, otclient comes with tons of other featu
 |-------------------------------------------|---------------|-------------------------|
 | Creature Attached Effect | Light Attached Effect | Creature Particule |
 
+| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/001_ingame.png?raw=true" width="200" alt="Haskanoid Video" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/001_interface.png?raw=true" width="200" alt="Peoplemon by Alex Stuart" style="max-width: 200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Android/003_patrikq.jpg?raw=true" width="270" alt="Space Invaders" style="max-width: 270px;"> |
+|-------------------------------------------|---------------|-------------------------|
+| Interface | Density Pixel | Joystick (patrykq) |
+
 ## <a name="roadmap">❤️ Roadmap</a>
 
 | TO-DO list            	| Status                            	| PR   	|
