@@ -5,18 +5,7 @@
 [![Build - Windows](https://github.com/mehah/otclient/actions/workflows/build-windows.yml/badge.svg)](https://github.com/mehah/otclient/actions/workflows/build-windows.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-## 📋 Table of Contents
-
-1. ![Logo](https://raw.githubusercontent.com/mehah/otclient/main/src/otcicon.ico)  [What is otclient?](#whatisotclient)
-1. 🚀 [Features](#features)
-1. <img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"> [The Mobile Project](#themobileproject)
-1. 🔨 [Compiling](#compiling)
-1. 🩺 [Need help?](#need-help?)
-1. 📑 [Bugs?](#bugs)
-1. ❤️  [Roadmap](#roadmap)
 ## <a name="whatisotclient">![Logo](https://raw.githubusercontent.com/mehah/otclient/main/src/otcicon.ico)  What is otclient?</a>
-
 Otclient is an alternative Tibia client for usage with otserv. It aims to be complete and flexible, for that it uses LUA scripting for all game interface functionality and configurations files with a syntax similar to CSS for the client interface design. Otclient works with a modular system, this means that each functionality is a separated module, giving the possibility to users modify and customize anything easily. Users can also create new mods and extend game interface for their own purposes. Otclient is written in C++20 and heavily scripted in lua.
 
 ## <a name="features">🚀 Features</a>
@@ -26,18 +15,8 @@ Beyond of it's flexibility with scripts, otclient comes with tons of other featu
 |-------------------------------------------|-------------------|-------------------------------------------|
 | Interface | In-game | Creature Attached Effect |
 
-
 ## <a name="roadmap">❤️ Roadmap</a>
 
 | TO-DO list            	| Status                            	| PR   	|
 |-----------------------	|-----------------------------------	|------	|
 | ... | ![](https://geps.dev/progress/0)   |   None   	|
-
-## <a name="need-help?">🩺 Need help?</a>
-
-Try to ask questions in [discord](https://discord.gg/HZN8yJJSyC)
-
-## <a name="bugs">📑 Bugs?</a>
-
-Have found a bug? Please create an issue in our [bug tracker](https://github.com/mehah/otclient/issues)
-
