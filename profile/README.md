@@ -30,6 +30,15 @@ Beyond of it's flexibility with scripts, otclient comes with tons of other featu
 |-------------------------------------------|---------------|-------------------------|
 | Interface | Density Pixel | Joystick (patrykq) |
 
+| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="300" alt="Haskanoid Video" style="max-width:300px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="300" alt="Peoplemon by Alex Stuart" style="max-width: 300px;"> |
+|-------------------------------------------|---------------|
+| Interface. | In-game |
+- blessing
+- Screenshot
+- highscores
+- Store
+- Cyclopedia
+
 ## <a name="roadmap">❤️ Roadmap</a>
 
 | TO-DO list            	| Status                            	| PR   	|
