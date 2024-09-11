@@ -4,7 +4,7 @@
 
 ### Mythbound Tibia :octocat:
 
-_... built on BlackTek, OTClient Redemption with K3s on Oracle_ 🤖
+_... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
 
 </div>
 
