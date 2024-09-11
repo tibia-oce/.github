@@ -35,29 +35,30 @@ _... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
 </div>
 
 ###
+<div align="center">
+  
+  <div style="text-align: center;">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;">
+        </td>
+        <td>
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;">
+        </td>
+        <td>
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;">
+        </td>
+      </tr>
+      <tr>
+        <td>Interface</td>
+        <td>In-game</td>
+        <td>Creature Attached Effect</td>
+      </tr>
+    </table>
+  </div>
 
-<div style="text-align: center;">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;">
-      </td>
-      <td>
-        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;">
-      </td>
-      <td>
-        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;">
-      </td>
-    </tr>
-    <tr>
-      <td>Interface</td>
-      <td>In-game</td>
-      <td>Creature Attached Effect</td>
-    </tr>
-  </table>
 </div>
-
-
 ---
 
 ## <a name="whatisotclient">![Logo](https://raw.githubusercontent.com/mehah/otclient/main/src/otcicon.ico)  Client</a>
