@@ -32,10 +32,31 @@ _... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 ###
+
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;">
+      </td>
+      <td>
+        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;">
+      </td>
+      <td>
+        <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;">
+      </td>
+    </tr>
+    <tr>
+      <td>Interface</td>
+      <td>In-game</td>
+      <td>Creature Attached Effect</td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -57,9 +78,5 @@ _... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
 | TO-DO list            	| Status                            	| PR   	|
 |-----------------------	|-----------------------------------	|------	|
 | ... | ![](https://geps.dev/progress/0)   |   None   	|
-
-###
-
-<h2 align="center">Tech Stack</h2>
 
 
