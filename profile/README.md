@@ -4,7 +4,7 @@
 
 ### Mythbound Tibia
 
-_... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ :octocat:
+_... BlackTek, OTClient Redemption, MyAAC runing through [K3s on Oracle](https://github.com/tibia-oce/oci)_ :octocat:
 
 </div>
 
