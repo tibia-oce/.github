@@ -4,7 +4,7 @@
 
 ### Mythbound Tibia
 
-_... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](https://github.com/tibia-oce/otclient), [MyAAC](https://github.com/tibia-oce/website) runing on [K3s](https://github.com/tibia-oce/oci)_ :octocat:
+_... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](https://github.com/tibia-oce/otclient), [MyAAC](https://github.com/tibia-oce/website) on [Oracle with K3s](https://github.com/tibia-oce/oci)_ :octocat:
 
 </div>
 
