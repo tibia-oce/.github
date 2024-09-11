@@ -57,9 +57,9 @@ _... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](http
         </td>
       </tr>
       <tr>
-        <td>Interface</td>
-        <td>Creature Attached Effect</td>
-        <td>In-game</td>
+        <td>Login Screen</td>
+        <td>Character Cosmetics</td>
+        <td>Game Interface</td>
       </tr>
     </table>
   </div>
