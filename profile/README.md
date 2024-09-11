@@ -2,9 +2,9 @@
 
 <img src="https://github.com/mehah/otclient/blob/main/data/images/clienticon.png?raw=true" align="center" width="44px" height="44px"/>
 
-### Mythbound Tibia :octocat:
+### Mythbound Tibia
 
-_... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
+_... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ :octocat:
 
 </div>
 
@@ -59,25 +59,3 @@ _... BlackTek, OTClient Redemption, MyAAC runing through K3s on Oracle_ 🤖
   </div>
 
 </div>
----
-
-## <a name="whatisotclient">![Logo](https://raw.githubusercontent.com/mehah/otclient/main/src/otcicon.ico)  Client</a>
-[Otclient](https://github.com/mehah/otclient) is an alternative Tibia client for usage with open tibia servers.
-
-## <a name="features">🚀 Server</a>
-[BlackTek](https://github.com/Black-Tek/BlackTek-Server) is a free and open-source MMORPG server emulator written in C++ for Open Tibia. It is a fork of the TheForgottenServer project. 
-
-## <a name="features">🚀 Website</a>
-[MyAAC](https://github.com/slawkens/myaac) is a free and open-source Automatic Account Creator (AAC) written in PHP. It is a fork of the Gesior project.
-
-| <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;"> | <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;"> |
-|-------------------------------------------|-------------------|-------------------------------------------|
-| Interface | In-game | Creature Attached Effect |
-
-## <a name="roadmap">❤️ Roadmap</a>
-
-| TO-DO list            	| Status                            	| PR   	|
-|-----------------------	|-----------------------------------	|------	|
-| ... | ![](https://geps.dev/progress/0)   |   None   	|
-
-
