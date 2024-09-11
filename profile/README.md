@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/mehah/otclient/blob/main/data/images/clienticon.png?raw=true" align="center" width="144px" height="144px"/>
+<img src="https://github.com/mehah/otclient/blob/main/data/images/clienticon.png?raw=true" align="center" width="44px" height="44px"/>
 
 ### Mythbound Tibia :octocat:
 
