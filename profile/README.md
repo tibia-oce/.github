@@ -47,13 +47,13 @@ _... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](http
     <table>
       <tr>
         <td>
-          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Interface" style="max-width:200px;">
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/001_interface.png?raw=true" width="200" alt="Login Screen" style="max-width:200px;">
         </td>
         <td>
-          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Creature Attached Effect" style="max-width:200px;">
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Attached%20Effect/Creature/001_Bone.gif?raw=true" width="200" alt="Character Attachments" style="max-width:200px;">
           </td>
         <td>
-          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="In-game" style="max-width:200px;">
+          <img src="https://github.com/kokekanon/OTredemption-Picture-NODELETE/blob/main/Picture/Layout%2013/002_ingame.png?raw=true" width="200" alt="Game Interface" style="max-width:200px;">
         </td>
       </tr>
       <tr>
