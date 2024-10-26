@@ -12,14 +12,14 @@ _... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](http
 
 [![Kubernetes](https://img.shields.io/static/v1?label=K3s&message=v1.30.2&color=blue&style=for-the-badge&logo=kubernetes&logoColor=white)](https://k3s.io/)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/discord/1283279739775352896?style=for-the-badge&label&logo=discord&logoColor=white&color=blue)]([https://discord.gg/1283279739775352896](https://discord.gg/Erhz4GmDMd))&nbsp;&nbsp;
-[![Renovate](https://img.shields.io/github/actions/workflow/status/tibia-oce/oci/renovate.yml?branch=master&label=&logo=renovatebot&style=for-the-badge&color=blue)](https://github.com/tibia-oce/infrastructure/actions/workflows/renovate.yml)
+[![Renovate](https://img.shields.io/github/actions/workflow/status/tibia-oce/oci/renovate.yml?branch=master&label=&logo=renovatebot&style=for-the-badge&color=blue)](https://github.com/tibia-oce/infrastructure/actions/workflows/renovate.yaml)
 
 </div>
 
 <div align="center">
 
 [![Cluster](https://img.shields.io/static/v1?label=Cluster&message=Online&color=brightgreen&style=for-the-badge&logo=v&logoColor=white)](https://status.mythbound.dev/)&nbsp;&nbsp;
-[![Server](https://img.shields.io/static/v1?label=Server&message=Online&color=brightgreen&style=for-the-badge&logo=v&logoColor=white)](https://status.mythbound.dev/)&nbsp;&nbsp;
+[![Server](https://img.shields.io/static/v1?label=Server&message=Online&color=brightgreen&style=for-the-badge&logo=v&logoColor=white)](https://status.mythbound.dev/endpoints/tibia_tibia-server)&nbsp;&nbsp;
 [![Website](https://img.shields.io/static/v1?label=Website&message=Online&color=brightgreen&style=for-the-badge&logo=statuspage&logoColor=white)](https://myaac.mythbound.dev/)&nbsp;&nbsp;
 
 </div>
