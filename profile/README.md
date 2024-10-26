@@ -12,7 +12,7 @@ _... [BlackTek](https://github.com/tibia-oce/server), [OTClient Redemption](http
 
 [![Kubernetes](https://img.shields.io/static/v1?label=K3s&message=v1.30.2&color=blue&style=for-the-badge&logo=kubernetes&logoColor=white)](https://k3s.io/)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/discord/1283279739775352896?style=for-the-badge&label&logo=discord&logoColor=white&color=blue)]([https://discord.gg/1283279739775352896](https://discord.gg/Erhz4GmDMd))&nbsp;&nbsp;
-[![Renovate](https://img.shields.io/github/actions/workflow/status/tibia-oce/oci/renovate.yml?branch=master&label=&logo=renovatebot&style=for-the-badge&color=blue)](https://github.com/tibia-oce/infrastructure/actions/workflows/renovate.yaml)
+[![Renovate](https://img.shields.io/github/actions/workflow/status/tibia-oce/infrastructure/renovate.yaml?branch=master&label=&logo=renovatebot&style=for-the-badge&color=blue)](https://github.com/tibia-oce/infrastructure/actions/workflows/renovate.yaml)
 
 </div>
 
